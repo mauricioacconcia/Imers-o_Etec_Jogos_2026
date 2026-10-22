@@ -8,16 +8,6 @@ O roteiro principal tem **75 minutos**, com adaptações para **60 ou 90 minutos
 
 Experimentar etapas de uma aula de jogos digitais: definir regras, programar comportamentos, observar a experiência de quem joga e propor melhorias para diferentes públicos.
 
-## Materiais
-
-| Arquivo | Conteúdo |
-| --- | --- |
-| [Imersao_Jogos_Digitais.pptx](./Imersao_Jogos_Digitais.pptx) | Apresentação editável com 26 slides e notas de condução. |
-| [Imersao_Jogos_Digitais_Slides.pdf](./Imersao_Jogos_Digitais_Slides.pdf) | Versão dos slides em PDF. |
-| [Guia_Imersao_Jogos_Digitais.pdf](./Guia_Imersao_Jogos_Digitais.pdf) | Guia de 14 páginas com cronograma, instruções, atividades e alternativa impressa ao questionário online. |
-
-Os links consideram os três arquivos na mesma pasta deste `README.md`.
-
 ## Dinâmica da aula
 
 1. Conversa inicial sobre jogos e o que motiva as pessoas a continuar jogando.
